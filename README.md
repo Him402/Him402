@@ -34,7 +34,7 @@ I understand what businesses actually need from their data — not just what loo
 |---|---|---|---|
 | [Customer Churn Prediction](https://github.com/Him402/customer-churn-prediction) | End-to-end ML project with profit-curve threshold optimisation, SHAP explainability, and Streamlit deployment | Python, Scikit-learn, SHAP, Streamlit | Completed |
 | Sales Forecasting | Time series forecasting using ARIMA and Prophet on retail sales data | Python, ARIMA, Prophet | In Progress |
-| Loan Default Prediction | Credit risk model leveraging banking domain knowledge from ICICI Bank experience | Python, XGBoost, Logistic Regression | 📋 Planned |
+| Loan Default Prediction | Credit risk model leveraging banking domain knowledge from ICICI Bank experience | Python, XGBoost, Logistic Regression | Planned |
 
 ---
 
