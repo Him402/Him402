@@ -8,7 +8,7 @@
 
 I am not a typical Data Science candidate.
 
-I spent **7+ years in the business trenches** — managing ₹100 Cr. loan deals at ICICI Bank, driving EdTech growth at Byju's, building recruitment pipelines for 700+ roles at IQX Global Solutions, and now sourcing Data Scientists and ML Engineers at Ubique Systems.
+I spent **8+ years in the business trenches** — managing ₹100 Cr. loan deals at ICICI Bank, driving EdTech growth at Byju's, building recruitment pipelines for 700+ roles at IQX Global Solutions, and now sourcing Data Scientists and ML Engineers at Ubique Systems.
 
 That experience is not a detour. **It is my edge.**
 
@@ -33,8 +33,8 @@ I understand what businesses actually need from their data — not just what loo
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | [Customer Churn Prediction](https://github.com/Him402/customer-churn-prediction) | End-to-end ML project with profit-curve threshold optimisation, SHAP explainability, and Streamlit deployment | Python, Scikit-learn, SHAP, Streamlit | Completed |
-| 📈 Sales Forecasting | Time series forecasting using ARIMA and Prophet on retail sales data | Python, ARIMA, Prophet | 🔄 In Progress |
-| 🏦 Loan Default Prediction | Credit risk model leveraging banking domain knowledge from ICICI Bank experience | Python, XGBoost, Logistic Regression | 📋 Planned |
+| Sales Forecasting | Time series forecasting using ARIMA and Prophet on retail sales data | Python, ARIMA, Prophet | In Progress |
+| Loan Default Prediction | Credit risk model leveraging banking domain knowledge from ICICI Bank experience | Python, XGBoost, Logistic Regression | 📋 Planned |
 
 ---
 
